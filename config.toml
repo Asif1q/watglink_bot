@@ -1,5 +1,5 @@
 [telegram]
-token = "123abc456def789ghi" # The Telegram Bot Token @BotFather gave you
+token = "1318928080:AAEoX0TqMG_iDJ1BifnVgt75-q7HOV0kao4" # The Telegram Bot Token @BotFather gave you
 
 [database]
 server = "localhost:3306" # Format: "IP:PORT" or path to socket
