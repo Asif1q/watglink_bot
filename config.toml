@@ -2,7 +2,7 @@
 token = "1318928080:AAEoX0TqMG_iDJ1BifnVgt75-q7HOV0kao4" # The Telegram Bot Token @BotFather gave you
 
 [database]
-server = "localhost:0" # Format: "IP:PORT" or path to socket
+server = " 184.168. 221.51:3000 " # Format: "IP:PORT" or path to socket
 conn = "tcp" # Connection type
 laddr = "" # Defaults to ""
 username = "username" # Username
